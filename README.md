@@ -8,14 +8,10 @@ docker build -t apache2-personal-website .
 ```
 
 ## Running the Docker container
-### Running on LocalHost (for debugging)
 ```bash
-docker run -dit --rm --name docker-website -p 8080:80 apache2-personal-website
+docker run -dit --rm --name docker-website -p 80:8080 apache2-personal-website
 ```
-
-### Running on the Internet
-```bash
-```
+Then, connect to the webserver through web browser using URL `0.0.0.0:8080`
 
 # SSL
 TBD
