@@ -1,4 +1,5 @@
-FROM httpd:2.4
+# USING the PHP Docker image with the Apache server running on Debian Buster
+FROM php:7.3.9-apache-buster
 
-COPY ./site/ /usr/local/apache2/htdocs/
-COPY apache/httpd.conf /usr/local/apache2/conf/httpd.conf
+COPY ./htdocs/ /var/www/html
+COPY apache/httpd.conf /etc/apache2/apache2.conf
