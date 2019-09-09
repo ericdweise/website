@@ -1,0 +1,22 @@
+BASE COLOR SCHEME
+#125E87  ANCHOR      slate blue
+#6C0E1C  COMPLIMENT  brownish red
+#dcae1d  ACCENT      Goldenrod
+
+LIGHT MODE
+#d5d5d5  BACKGROUND  paper gray
+#000000  TEXT        black
+
+DARK MODE
+#000000  BACKGROUND  black
+#6e7376  TEXT        smoke gray
+
+
+## Graveyard of Colors
+#872012  burgundy 
+#76323f  oxblood 
+#f2eee0  eggshell 
+#c09f80  tan 
+#d7cec7  grain  
+#78866b  sage 
+#565656  blackboard 
