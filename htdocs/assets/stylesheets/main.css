@@ -1,0 +1,33 @@
+body {
+    color: #000000;
+    font-family: Trebuchet MS, Arial, sans-serif;
+    background-color: #d5d5d5;
+}
+main {
+    max-width: 70ch;
+    padding: 2ch;
+    margin: auto;
+}
+a {
+    color: #000000;
+    text-decoration: underline dotted;
+    outline: 0;
+}
+a.footer {
+    color: #d5d5d5;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+header {
+    color: #d5d5d5;
+    background-color: #125E87;
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+footer {
+    color: #d5d5d5;
+    background-color: #125E87;
+    margin-top: 1.5rem;
+}
