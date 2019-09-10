@@ -2,11 +2,8 @@ body {
     color: #000000;
     font-family: Trebuchet MS, Arial, sans-serif;
     background-color: #d5d5d5;
-}
-main {
-    max-width: 70ch;
-    padding: 2ch;
-    margin: auto;
+    width: 100%;
+    margin:0 auto;
 }
 a {
     color: #000000;
