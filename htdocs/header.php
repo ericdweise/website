@@ -1,10 +1,5 @@
 <div id="header">
-    <div id="nav-logo">
-        <!-- Placeholder for logo -->
-        LOGO
-    </div>
     <div class="flex-container" id="navbar">
-        <!-- TODO: Center this in the device screen -->
         <a class="header" href="index.php">
             <div class="nav-box">Home</div>
         </a>
