@@ -22,6 +22,7 @@ div#header {
     color: #d5d5d5;
     background-color: #125E87;
     margin-bottom: 1.5rem;
+    display: flex;
 }
 a.header {
     color: #d5d5d5;
@@ -50,8 +51,6 @@ div#nav-logo {
 }
 div#nav-bar {
     height: 55px;
-    position: absolute;
-    width: 100%;
 }
 div.nav-box {
     padding-top: 18px;
