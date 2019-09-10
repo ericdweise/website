@@ -24,13 +24,37 @@ a.header {
 a:hover {
     text-decoration: underline;
 }
-header {
+div#header {
+    width:100%;
     color: #d5d5d5;
     background-color: #125E87;
     margin-bottom: 1.5rem;
 }
-footer {
+div#footer {
+    width:100%;
     color: #d5d5d5;
     background-color: #125E87;
     margin-top: 1.5rem;
+}
+
+/*
+* NAVIGATION BAR
+*/
+.flex-container {
+  display: flex;
+}
+div#nav-logo {
+    padding: 0px 25px 0px 12px;
+}
+div#nav-bar {
+    height: 55px;
+    position: absolute;
+    width: 100%;
+}
+div.nav-box {
+    padding: 17px 19px 14px 15px;
+}
+div.nav-box:hover {
+    background: rgba(0, 0, 0, 0.17) !important;
+    border-bottom: 4px solid #d5d5d5;
 }
