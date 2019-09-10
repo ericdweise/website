@@ -1,7 +1,8 @@
-body {
-    color: #000000;
+html {
     font-family: Trebuchet MS, Arial, sans-serif;
     background-color: #d5d5d5;
+}
+body {
     width: 100%;
     margin:0 auto;
 }
@@ -14,9 +15,18 @@ a:hover {
     text-decoration: underline;
 }
 
-/*
-* HEADER AND FOOTER
-*/
+/*** PAGE CONTENT ***/
+div.page-content {
+    max-width: 80ch;
+    padding: 2ch;
+    margin: auto;
+    color: #000000;
+}
+p {
+    text-align: justify;
+}
+
+/*** HEADER AND FOOTER ***/
 div#header {
     width:100%;
     color: #d5d5d5;
@@ -39,9 +49,7 @@ a.footer {
     text-decoration: none;
 }
 
-/*
-* NAVIGATION BAR
-*/
+/*** NAVIGATION BAR ***/
 .flex-container {
   display: flex;
 }
