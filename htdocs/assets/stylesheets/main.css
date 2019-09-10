@@ -49,8 +49,9 @@ div#nav-logo {
     height: 55px;
     padding-right: 25px;
 }
-div#nav-bar {
+div#navbar {
     height: 55px;
+    margin: 0 auto;
 }
 div.nav-box {
     padding-top: 17px;
