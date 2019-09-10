@@ -6,15 +6,15 @@
             <h2>LOGO</h2>
             <!-- TODO: do not include this in the navbar -->
         </div>
-        <div class="nav-box">
-            <a class="header" href="index.php">Home</a>
-        </div>
-        <div class="nav-box">
-            <a class="header" href="consulting.php">Consulting</a>
-        </div>
-        <div class="nav-box">
-            <a class="header" href="blog.php">My Thoughts</a>
-        </div>
+        <a class="header" href="index.php">
+            <div class="nav-box">Home</div>
+        </a>
+        <a class="header" href="consulting.php">
+            <div class="nav-box">Consulting</div>
+        </a>
+        <a class="header" href="blog.php">
+            <div class="nav-box">My Thoughts</div>
+        </a>
     </div>
     <!-- Placeholder for the day/night mode toggle switch -->
 </div>
