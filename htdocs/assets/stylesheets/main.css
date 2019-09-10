@@ -53,10 +53,11 @@ div#nav-bar {
     height: 55px;
 }
 div.nav-box {
-    padding-top: 18px;
+    padding-top: 17px;
     padding-right: 19px;
-    padding-bottom: 14px;
     padding-left:15px;
+    height: 100%;
+    box-sizing: border-box;
 }
 div.nav-box:hover {
     background: rgba(0, 0, 0, 0.17) !important;
