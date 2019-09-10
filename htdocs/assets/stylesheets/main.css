@@ -17,13 +17,16 @@ a.footer {
     color: #d5d5d5;
     text-decoration: none;
 }
+a.header {
+    color: #d5d5d5;
+    text-decoration: none;
+}
 a:hover {
     text-decoration: underline;
 }
 header {
     color: #d5d5d5;
     background-color: #125E87;
-    text-align: center;
     margin-bottom: 1.5rem;
 }
 footer {
