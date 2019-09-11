@@ -11,6 +11,10 @@
         <!--TODO: Add a profile picture -->
         <!--TODO: Add a bio -->
         <section>
+            <h1>About Me</h1>
+                <p>I have a dog named <a href="bernie.php">Bernie</a>.</p>
+        </section>
+        <section>
             <h1>Consulting</h1>
             <p>I have spent several years as the Lead Software Developer at a small startup company. If you need help with a project please see my <a href="consulting.php">Software Consulting</a> page.</p>
         </section>
