@@ -8,6 +8,7 @@
     </head>
     <?php include('header.php'); ?>
     <div class="page-content">
+        <img src="assets/images/headshot-400px.png">
         <!--TODO: Add a profile picture -->
         <!--TODO: Add a bio -->
         <section>
