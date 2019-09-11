@@ -5,6 +5,7 @@ html {
 body {
     width: 100%;
     margin:0 auto;
+    /* TODO: min-height */
 }
 a {
     color: #000000;
@@ -56,6 +57,7 @@ div.nav-box {
     padding-left:15px;
     height: 100%;
     box-sizing: border-box;
+    /* TODO: max-height */
 }
 div.nav-box:hover {
     background: rgba(0, 0, 0, 0.17) !important;
