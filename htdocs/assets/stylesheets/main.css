@@ -31,6 +31,12 @@ img.page-content {
     margin: auto;
     max-width: 100%;
 }
+img.border {
+    border: 2px solid #6C0E1C;
+}
+img.circle {
+    border-radius: 50%;
+}
 
 /*** HEADER ***/
 div#header {
