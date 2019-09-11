@@ -29,6 +29,7 @@ p {
 img.page-content {
     display: block;
     margin: auto;
+    max-width: 100%;
 }
 
 /*** HEADER ***/
