@@ -71,8 +71,6 @@ div#footer {
     margin-top: 1.5rem;
     height: 30px;
     display: flex;
-    bottom: 0px;
-    position: absolute;
 }
 div#find-me {
     height: 30px;
