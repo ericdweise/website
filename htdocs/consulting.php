@@ -9,11 +9,11 @@
     <?php include('header.php'); ?>
     <div class="page-content">
         <h1>Software Development and DevOps Consulting</h1>
-        <p>I started my career as a Software Developer at a small startup company right after I graduated in 2015. Originally I was hired as an algorithm developer, but as our product and my codebase grew I began working more and more packaging and deploying it to customers. For the last several years my responsibilities have been to to ensure the integrity of products and continuity of services to customers.</p>
+        <p>I started my career as a Software Developer at a small startup company right after I graduated from university in 2015. Originally I was hired as an algorithm developer, but as our product and my codebase grew I began working more and more packaging and deploying our product to customers. For the last several years my responsibilities have been to to ensure the integrity of our products and the continuity of our services to customers.</p>
         <p>If your company needs help in these areas please contact me at EricDWeise @ gmail.com.</p>
         <h2>Specialties</h2>
         <h3>Regulatory Compliance</h3>
-        <p>Production code hardly ever exists outside a regulated environment. Having written code for a healthcare software package I am familiar working within the bounds of an FDA regulated environment. This includes</p>
+        <p>Production code hardly ever exists outside a regulated environment. Having written code for a healthcare software package I am familiar working within the bounds of FDA regulation. This includes</p>
         <ul>
             <li>Developing production level code
             <li>Writing unit tests in accordance with Failure Mode and Effects Analysis (FMEA)
@@ -28,7 +28,7 @@
             <li>Continuous Integration and Continuous Deployment (CI/CD)
         </ul>
         <h3>Development Methods</h3>
-        <p>My previous projects have been on small, integrated teams. This has required me and my co-workers to wear many hats and work in close support of one another. The easiest way I have found to do this is by setting up a rigorous development environment. I use the following organizational tools:</p>
+        <p>My previous projects have been with small, integrated teams. This has required me and my co-workers to wear many hats and work in close support of one another. The easiest way I have found to do this is by setting up a rigorous development environment. I use the following organizational tools:</p>
         <ul>
             <li>Agile development (in the form of Agility)
             <li>Source Control using Git and Git Flow
@@ -38,7 +38,7 @@
         <!-- <h2>Resume</h2> -->
         <!-- TODO -->
         <h2>Portfolio</h2>
-        While much of my work is proprietary or confidential, my personal projects are available on <a href="https://github.com/ericdweise">GitHub</a>.
+        While much of my professional work is proprietary and confidential, my personal projects are available on <a href="https://github.com/ericdweise">GitHub</a>.
     </div>
     <?php include('footer.php'); ?>
 </html>
