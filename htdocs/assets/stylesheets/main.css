@@ -99,3 +99,9 @@ a.footer {
 a.footer:hover {
     text-decoration: underline;
 }
+
+/*** BLOG ***/
+h2.blog-date {
+    color: #AEAEAE;
+    text-decoration: bold;
+}
