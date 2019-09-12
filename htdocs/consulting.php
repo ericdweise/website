@@ -9,17 +9,33 @@
     <?php include('header.php'); ?>
     <div class="page-content">
         <h1>Software Development and DevOps Consulting</h1>
-        <p>I have spent the past several years as the Lead Software Developer at a small startup company. I learned how to work in a small company to support research teams by providing operational support and preparing healthcare software for the regulated production environment. If your company needs help in these areas please contact me at EricDWeise[snail]gmail.com.</p>
+        <p>I started my career as a Software Developer at a small startup company right after I graduated in 2015. Originally I was hired as an algorithm developer, but as our product and my codebase grew I began working more and more packaging and deploying it to customers. For the last several years my responsibilities have been to to ensure the integrity of products and continuity of services to customers.</p>
+        <p>If your company needs help in these areas please contact me at EricDWeise @ gmail.com.</p>
         <h2>Specialties</h2>
-        <h3>Test Driven Development</h3>
-        <p></p> <!-- TODO -->
-        <h3>Continuous Integration & Continuous Deployment</h3>
-        <p></p> <!-- TODO -->
-        <h3>Cloud Services</h3>
-        <p>I have used the major cloud service platforms extensively and am very familiar with Amazon Web Services and Digital Ocean.</p>
         <h3>Regulatory Compliance</h3>
-        <p>Production code hardly ever exists outside a regulated environment. Having written code for a healthcare software package I am familiar working within the bounds of an FDA regulated environment.</p>
-        <h2>Resume</h2>
+        <p>Production code hardly ever exists outside a regulated environment. Having written code for a healthcare software package I am familiar working within the bounds of an FDA regulated environment. This includes</p>
+        <ul>
+            <li>Developing production level code
+            <li>Writing unit tests in accordance with Failure Mode and Effects Analysis (FMEA)
+            <li>Corrective and Preventative Action (CAPA)
+            <li>Preparing documentation for FDA applications
+        </ul>
+        <h3>Cloud Services</h3>
+        <p>I have deployed products to Amazon Web Services and have used it extensively in my profesional and personal work. Besides AWS I have also used GoogleCloud and Digital Ocean. Through these experiences I have learned and can help you with:</p>
+        <ul>
+            <li>Serverless Architecture (AWS Lambda)
+            <li>Leveraging and swarming containers (Docker)
+            <li>Continuous Integration and Continuous Deployment (CI/CD)
+        </ul>
+        <h3>Development Methods</h3>
+        <p>My previous projects have been on small, integrated teams. This has required me and my co-workers to wear many hats and work in close support of one another. The easiest way I have found to do this is by setting up a rigorous development environment. I use the following organizational tools:</p>
+        <ul>
+            <li>Agile development (in the form of Agility)
+            <li>Source Control using Git and Git Flow
+            <li>Test driven development
+            <li>Peer reviewed code
+        </ul>
+        <!-- <h2>Resume</h2> -->
         <!-- TODO -->
         <h2>Portfolio</h2>
         While much of my work is proprietary or confidential, my personal projects are available on <a href="https://github.com/ericdweise">GitHub</a>.
