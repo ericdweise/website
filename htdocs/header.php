@@ -9,6 +9,9 @@
         <a class="header" href="/blog/">
             <div class="nav-box">My Thoughts</div>
         </a>
+        <a class="header" href="/adventures/">
+            <div class="nav-box">Adventures</div>
+        </a>
     </div>
     <!-- Placeholder for the day/night mode toggle switch -->
 </div>
