@@ -8,8 +8,7 @@
     </head>
     <?php include('../header.php'); ?>
     <div class="page-content">
-        <a href="vietnam.php"><h2>Vietnam</h2></a>
-        <p>A 1,200 kilometer journey through Vietnam with my cousins.</p>
+        <p>Hold yer horses! Content is coming soon.</p>
     </div>
     <?php include('../footer.php'); ?>
 </html>
