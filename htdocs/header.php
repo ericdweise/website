@@ -7,7 +7,7 @@
             <div class="nav-box">Consulting</div>
         </a>
         <a class="header" href="/blog/">
-            <div class="nav-box">My Thoughts</div>
+            <div class="nav-box">Thoughts</div>
         </a>
         <a class="header" href="/adventures/">
             <div class="nav-box">Adventures</div>
