@@ -11,8 +11,8 @@
         <h1>Software Development and DevOps Consulting</h1>
         <p>
         I started my career as a Software Developer at a small startup company right after I graduated from university in 2015.
-        Originally I was hired as an algorithm developer, but as our product and my codebase grew I began working more and more packaging and deploying our product to customers.
-        For the last several years my responsibilities have been to ensure the integrity of our products and the continuity of our services to customers.
+        Originally I was hired as an algorithm developer, but as our product and my codebase grew my responsibility to package and deploy our product to customers took priority.
+        For the last several years my job has been to ensure the integrity of our products and the continuity of our services to customers.
         </p>
         <p>
         If your project or company needs help in these areas please contact me at EricDWeise @ gmail.com.
@@ -21,7 +21,7 @@
         <h3>Regulatory Compliance</h3>
         <p>
         Production code hardly ever exists outside a regulated environment.
-        I was the lead developer a healthcare software packagem so I am familiar working within the bounds of FDA regulation.
+        I was the lead developer for a healthcare software package, so I am familiar working within the bounds of FDA regulation.
         If your product needs to conform to a strict regulatory criteria I can help, particulary in the following areas:
         </p>
         <ul>
@@ -33,7 +33,7 @@
         <h3>Cloud Services</h3>
         <p>
         I have deployed products to Amazon Web Services and have used it extensively in my profesional and personal work.
-        Besides AWS I have also used GoogleCloud and Digital Ocean.
+        In addition to AWS I have also used GoogleCloud and Digital Ocean.
         Through these experiences I have learned and can help you with:
         </p>
         <ul>

@@ -36,10 +36,10 @@
         Like I said above, I don't expect the traffic to my website to be large.
         In fact, I only expect people who know me to come here. (Hi, Mom and Dad!)
         This is going to be my online journal.
-        I believe that The act of writing down thoughts helps you work through problems.
-        Often times revisiting problems can help you think about them in new ways or with a fresh perspective.
-        My journaling, however, is not very consistent, and when I do write my thoughts come out so jumbled and non-linear mess that it is difficult to draw a conclusion.
-        It is the kind of aimless banter that my grandpa would call "diarrhea of the mouth."
+        I believe that the act of writing down your thoughts helps you work through problems.
+        Often times revisiting problems later on can help you think about them in new ways or with a fresh perspective.
+        My journaling, however, is not very consistent, and when I do write my thoughts come out in such a jumbled and non-linear mess that it is difficult to draw a conclusion from them.
+        It is the kind of aimless rambling that my grandpa would call "diarrhea of the mouth."
         Putting my thoughts onto a website where the wider public can view it &#8212; trolls and all &#8212; will make me think harder about what I am writing.
         This in turn will help me figure out why I do what I do.
         <p>
