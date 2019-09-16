@@ -20,8 +20,10 @@
         </p>
         <p>
         I am always <i>doing things the hard way</i>.
-        I learn best by jumping in to a project head first and making mistakes along the way.
-        To me, the process is more important than the product, and how something is done is as important as finishing it.
+        I learn best by jumping in to a project head first and getting my hands dirty.
+        This has an added effect that I am more familiar with what I build when I am done.
+        I'm constantly online figuring out how to fix my car or repair a surfboard.
+        To me, the process is as important as the product, and how something is done is as important as finishing it.
         </p>
         <p>
         I believe that the energy you bring to a room, relationship, or company will circle back to you.
