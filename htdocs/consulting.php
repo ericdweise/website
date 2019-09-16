@@ -22,7 +22,7 @@
         <p>
         Production code hardly ever exists outside a regulated environment.
         I was the lead developer for a healthcare software package, so I am familiar working within the bounds of FDA regulation.
-        If your product needs to conform to a strict regulatory criteria I can help, particulary in the following areas:
+        If your product needs to conform to a strict regulatory criteria I can help, particularly in the following areas:
         </p>
         <ul>
             <li>Developing production level code
@@ -32,7 +32,7 @@
         </ul>
         <h3>Cloud Services</h3>
         <p>
-        I have deployed products to Amazon Web Services and have used it extensively in my profesional and personal work.
+        I have deployed products to Amazon Web Services and have used it extensively in my professional and personal work.
         In addition to AWS I have also used GoogleCloud and Digital Ocean.
         Through these experiences I have learned and can help you with:
         </p>
