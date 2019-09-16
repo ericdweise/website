@@ -8,7 +8,7 @@
     </head>
     <?php include('header.php'); ?>
     <div class="page-content">
-        <img class="page-content border circle" src="assets/images/headshot-400px.png">
+        <img class="page-content border circle" src="assets/images/hoi-an-bike.jpg">
         <p>
         This site is a partial collection of my thoughts and work, and is an attempt to be the center of my digital presence.
         </p>
