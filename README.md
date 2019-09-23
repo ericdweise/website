@@ -15,7 +15,7 @@ docker build -t personal-website .
 
 ## Running the Docker container
 ```bash
-docker run -dit --rm --name running-site -p 80:80 -p 443:443 personal-website
+docker run -d --rm --name running-site -p 80:80 -p 443:443 --mount type=bind,source="$(pwd)/htdocs",target=/var/www/html personal-website
 ```
 
 ## Stopping the Docker container
@@ -31,7 +31,6 @@ docker exec -it running-site /bin/sh
 ```
 
 ## Installing ACME and Configuring SSL via certbot
-
 1. Attach to the runing container.
 2. Install certbot (Depending on the version of the Dockerfile used to create the image might already been done):
     ```bash
@@ -41,5 +40,4 @@ docker exec -it running-site /bin/sh
     ```bash
     certbot --apache -d ericdweise.com -m ericdweise@gmail.com -n --agree-tos
     ```
-4. ??? set certificate to renew automatically??? (maybe this is already done)
-5. Test if SSL is enabled by visiting the site at `https://www.ericdweise.com`
+4. Test if SSL is enabled by visiting the site at `https://www.ericdweise.com`
