@@ -6,6 +6,9 @@
         <a class="header" href="/consulting/">
             <div class="nav-box">Consulting</div>
         </a>
+        <a class="header" href="https://github.com/ericdweise/notes">
+            <div class="nav-box">Notes</div>
+        </a>
         <a class="header" href="/blog/">
             <div class="nav-box">Thoughts</div>
         </a>
@@ -13,5 +16,4 @@
             <div class="nav-box">Adventures</div>
         </a>
     </div>
-    <!-- Placeholder for the day/night mode toggle switch -->
 </div>
