@@ -50,6 +50,7 @@ img.circle {
     background-color: #125E87;
 }
 .wrapper {
+    height: 65px;
     max-width: 80ch;
     margin-right: auto;
     margin-left: auto;
@@ -95,7 +96,7 @@ a.site-title:hover {
         background-color: #125E87;
         border: 1px solid #6C0E1C;
         border-radius: 5px;
-        text-align: right
+        text-align: right;
     }
     .navbar label[for="nav-trigger"] {
         display: block;
@@ -115,13 +116,13 @@ a.site-title:hover {
         text-align: center;
     }
     .navbar .menu-icon>svg path {
-        fill: #424242
+        fill: #6C0E1C;
     }
     .navbar input ~ .trigger {
         clear: both;
         display: none;
     }
-    .navbar input: checked ~ .trigger {
+    .navbar input:checked ~ .trigger {
         display: block;
         padding-bottom: 5px;
     }
