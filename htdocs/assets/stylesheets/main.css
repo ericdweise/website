@@ -4,7 +4,7 @@ html {
 }
 body {
     width: 100%;
-    margin:0 auto;
+    margin: 0 auto;
     /* TODO: min-height */
 }
 
@@ -50,19 +50,19 @@ img.circle {
     background-color: #125E87;
 }
 .wrapper {
-    max-width:80ch;
-    margin-right:auto;
-    margin-left:auto;
-    padding-right:2ch;
-    padding-left:2ch;
+    max-width: 80ch;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 2ch;
+    padding-left: 2ch;
 }
-a.header {
+.nav-link {
     color: #f0f0f0;
     text-decoration: none;
     padding-left: 2ch;
     line-height: 50px;
 }
-a.header:hover {
+.nav-link:hover {
     text-decoration: underline;
 }
 a.site-title {
@@ -77,14 +77,65 @@ a.site-title:hover {
 }
 
 /*** NAVIGATION BAR ***/
-div#navbar {
+.navbar {
     float: right;
     padding: 5px;
+}
+.navbar .nav-trigger {
+    display: none;
+}
+.navbar .menu-icon {
+    display: none;
+}
+@media screen and (max-width: 600px) {
+    .navbar {
+        position: absolute;
+        top: 9px;
+        right: 15px;
+        background-color: #125E87;
+        border: 1px solid #6C0E1C;
+        border-radius: 5px;
+        text-align: right
+    }
+    .navbar label[for="nav-trigger"] {
+        display: block;
+        float: right;
+        width: 36px;
+        height: 36px;
+        z-index: 2;
+        cursor: pointer;
+    }
+    .navbar .menu-icon {
+        display: block;
+        float: right;
+        width: 36px;
+        height: 26px;
+        line-height: 0;
+        padding-top: 10px;
+        text-align: center;
+    }
+    .navbar .menu-icon>svg path {
+        fill: #424242
+    }
+    .navbar input ~ .trigger {
+        clear: both;
+        display: none;
+    }
+    .navbar input: checked ~ .trigger {
+        display: block;
+        padding-bottom: 5px;
+    }
+    .navbar .nav-link {
+        display: block;
+        padding: 5px 10px;
+        margin-left: 20px; /*delete??? */
+        line-height: 20px;
+    }
 }
 
 /*** FOOTER ***/
 div#footer {
-    width:100%;
+    width: 100%;
     background-color: #125E87;
     margin-top: 1.5rem;
     height: 30px;
