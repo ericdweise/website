@@ -4,9 +4,9 @@
         <meta charset="utf-8">
         <title> Eric D. Weise - Consulting</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="assets/stylesheets/main.css">
+        <link rel="stylesheet" href="/assets/stylesheets/main.css">
     </head>
-    <?php include('header.php'); ?>
+    <?php include('../header.php'); ?>
     <div class="page-content">
         <h1>Software Development and DevOps Consulting</h1>
         <p>
@@ -57,5 +57,5 @@
         <h2>Portfolio</h2>
         While much of my professional work is proprietary and confidential, my personal projects are available on <a href="https://github.com/ericdweise">GitHub</a>.
     </div>
-    <?php include('footer.php'); ?>
+    <?php include('../footer.php'); ?>
 </html>
