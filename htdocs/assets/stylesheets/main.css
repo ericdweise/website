@@ -46,11 +46,11 @@ img.circle {
 
 /*** HEADER ***/
 .site-header {
+    line-height: 65px;
     position: relative;
     background-color: #125E87;
 }
 .wrapper {
-    height: 65px;
     max-width: 80ch;
     margin-right: auto;
     margin-left: auto;
@@ -80,7 +80,6 @@ a.site-title:hover {
 /*** NAVIGATION BAR ***/
 .navbar {
     float: right;
-    padding: 5px;
 }
 .navbar .nav-trigger {
     display: none;
@@ -141,7 +140,6 @@ div#footer {
     background-color: #f0f0f0;
     border-top: 1px solid #125E87;
     margin-top: 1.5rem;
-    height: 30px;
 }
 div#find-me {
     text-align: left;
@@ -152,9 +150,7 @@ div#find-me {
 }
 a.footer {
     color: #125E87;
-    margin-left: 10px;
-    margin-right: 10px;
-    line-height: 30px;
+    line-height: 25px;
     text-decoration: none;
 }
 span.footer:hover {
