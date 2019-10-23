@@ -17,6 +17,15 @@
           <span class="footer">LinkedIn</span>
         </a>
       </li>
+      <li>
+        <a class="footer" href="https://github.com/ericdweise/resume/raw/master/curriculum-vitae.pdf">
+          <svg class="svg-icon">"
+            <path d="M2,0V16H14V6L8,0H3V1H7V6H13V15H3V0H2z" />
+            <path d="M5,8v2h6v-2h-6z" />
+            <path d="M5,11v2h6v-2h-6z" />
+          </svg>
+          <span class="footer">Curriculum Vitae</span>
+      </li>
     </ul>
   </div>
 </div>
