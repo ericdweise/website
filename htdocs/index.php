@@ -34,10 +34,6 @@
         They don't usually find the easiest, most straight forward way, but they have interesting stories and are the best teachers.
         In turn, I hope to teach the people around me all the interesting things I have learned.
         </p>
-        <h1>Consulting</h1>
-        <p>
-        I have spent several years as the Lead Software Developer at a small startup company.
-        If you need help with a project please see my <a href="/consulting/">Software Consulting</a> page.
     </div>
     <?php include('footer.php'); ?>
 </html>
