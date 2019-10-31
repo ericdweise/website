@@ -24,7 +24,7 @@
         Development Operations (DevOps) is the art of getting high quality software to users as quickly as possible.
         I can help you take your idea and turn it into a secure, stable, and scalable package.
         With a proper orchestration I will minimize your software development lifecycle.
-        Whether you have tens of customers or millions they all deserve to have your .
+        Whether you have tens of customers or millions they all deserve to have your latest and greatest product.
         </p>
         <h3>Services Offered</h3>
         <p> Implement continuous integration and continuous deployment (CI/CD) so that your customers are always running the most recent version of your product.
