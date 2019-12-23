@@ -10,19 +10,18 @@ Then, connect to the webserver through web browser using URL `0.0.0.0`.
 
 # Running Production Server
 To run the site on the World Wide Web:
-1. Start a new tmux session
-2. Run the init-letsencrypt.sh script
+Run the init-letsencrypt.sh script
 ```bash
 sudo ./init-letsencrypt.sh
 ```
 
 ## Stopping the Docker container
 ```bash
-docker stop nginx apache certbot
+docker stop nginx phpfpm certbot
 ```
 
 
-## Making changes to a running container
+# Making changes to a running container
 ```bash
 docker exec -it [CONTAINER] /bin/sh
 ```
