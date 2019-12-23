@@ -1,35 +1,33 @@
 Basic steps for setting my website.
 
-# Building and Testing Site Documents
+# Testing Site Locally
 For the purposes of testing the documents you can host the site locally using the following command:
 ```bash
-docker run -d --rm -p 80:80 --name running-site --mount type=bind,source="$(pwd)/htdocs",target=/var/www/html php:7.3.9-apache-buster
+docker-compose -f docker-compose-development.yml up
 ```
-Then, connect to the webserver through web browser using URL `0.0.0.0:80`. As changes are made to the shared directory the website will reflect these changes. NOTE: This Docker container cannot be used to debug server configuration issues.
+Then, connect to the webserver through web browser using URL `0.0.0.0`.
 
-# Setting up the server
-## Building the Docker container
-```bash
-docker build -t personal-website .
-```
 
-## Running the Docker container
+# Running Production Server
+To run the site on the World Wide Web:
+1. Start a new tmux session
+2. Run the init-letsencrypt.sh script
 ```bash
-docker run -d --rm --name running-site -p 80:80 -p 443:443 --mount type=bind,source="$(pwd)/htdocs",target=/var/www/html personal-website
+sudo ./init-letsencrypt.sh
 ```
 
 ## Stopping the Docker container
 ```bash
-docker stop running-site
+docker stop nginx apache certbot
 ```
 
 
-# Making changes to a running container
-To make changes to a running container you need to open a new interactive shell in that container. This is done using the following command:
+## Making changes to a running container
 ```bash
-docker exec -it running-site /bin/sh
+docker exec -it [CONTAINER] /bin/sh
 ```
 
+# Deprecated
 ## Installing ACME and Configuring SSL via certbot
 1. Attach to the runing container.
 2. Install certbot (Depending on the version of the Dockerfile used to create the image might already been done):
