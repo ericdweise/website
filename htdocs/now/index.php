@@ -4,9 +4,9 @@
         <meta charset="utf-8">
         <title>Eric D. Weise - Now</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="assets/stylesheets/main.css">
+        <link rel="stylesheet" href="/assets/stylesheets/main.css">
     </head>
-    <?php include('header.php'); ?>
+    <?php include('../header.php'); ?>
     <div class="page-content">
         This page was inspired when I listened to Derek Sivers's interview with Tim Ferriss 
         <a href="https://tim.blog/2015/12/14/derek-sivers-on-developing-confidence-finding-happiness-and-saying-no-to-millions/">(interview number 125)</a>.
@@ -33,5 +33,5 @@
         </ul>
         Last updated: February 6, 2020
     </div>
-    <?php include('footer.php'); ?>
+    <?php include('../footer.php'); ?>
 </html>
