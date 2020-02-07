@@ -34,8 +34,6 @@ services:
         - ./htdocs:/website
   gitpull:
     container_name: gitpull
-    depends_on:
-      - nginx
     image: alpine/git
     restart: unless-stopped
     volumes:
