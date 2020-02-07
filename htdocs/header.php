@@ -13,6 +13,7 @@
             </span>
           </label>
           <div class="trigger">
+            <a class="nav-link" href="/now.php">Now</a>
             <a class="nav-link" href="/blog/">Thoughts</a>
             <a class="nav-link" href="https://github.com/ericdweise/notes">Notes</a>
             <a class="nav-link" href="/adventures/">Adventures</a>
