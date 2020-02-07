@@ -138,6 +138,19 @@ div#footer {
     width: 100%;
     color: #f0f0f0;
     background-color: #f0f0f0;
+}
+div#footer-image-div {
+    display: block;
+    margin: 0 auto;
+    width: 40%;
+}
+img#footer-image {
+    width: 100%;
+    height: auto;
+}
+div#footer-border {
+    width: 100%;
+    color: #f0f0f0;
     border-top: 1px solid #125E87;
     margin-top: 1.5rem;
 }
