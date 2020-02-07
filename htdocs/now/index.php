@@ -29,7 +29,7 @@
         <ul>
             <li> <em>The Courage to Be Disliked</em> by Ichiro Kishimi and Fumitake Toga
             <li> <em>Brave New World</em> by Aldous Huxley
-            <li> <em>Perfectly Reasonable Deviations (From the Beaten Path)</em> by Richard Feynman
+            <li> <em>Perfectly Reasonable Deviations (From the Beaten Track)</em> by Richard Feynman
         </ul>
         Last updated: February 6, 2020
     </div>
