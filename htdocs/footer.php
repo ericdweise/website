@@ -1,4 +1,10 @@
 <div id="footer">
+  <!-- 
+  <div id="footer-image-div">
+    <img id="footer-image" src="/assets/icons/logo-footer.svg">
+  </div>
+  -->
+  <div id="footer-border">
   <div id="footer-wrapper">
     <div id="footer-col-1">
       <ul id="find-me">
@@ -34,8 +40,10 @@
       </ul>
     </div>
     <div id="footer-col-2">
-      <!-- TODO: Put the fill color into main.css -->
-      <img src="/assets/icons/logo-footer.svg">
+      <ul id="footer-right-list">
+        <li><a class="footer" href="/consulting/"><span class="footer">Consulting</span></a></li>
+        <li><a class="footer" href="/bernie.php"><span class="footer">Bernie</span></a> </li>
+      </ul>
     </div>
   </div>
 </div>
