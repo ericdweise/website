@@ -4,6 +4,7 @@ services:
     container_name: nginx
     depends_on:
         - phpfpm
+        - gitpull
     image: nginx:1.15-alpine
     restart: unless-stopped
     volumes:
@@ -31,3 +32,11 @@ services:
     restart: unless-stopped
     volumes:
         - ./htdocs:/website
+  gitpull:
+    container_name: gitpull
+    image: alpine/git
+    restart: unless-stopped
+    volumes:
+      - .:/site-repository
+      - ./alpine-gitconfig:/root/.gitconfig
+    entrypoint: "/bin/sh -c 'trap exit TERM; while :; do cd /site-repository; git pull origin master; sleep 24h; done;'"
