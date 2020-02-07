@@ -34,8 +34,12 @@
       </ul>
     </div>
     <div id="footer-col-2">
-      <!-- TODO: Put the fill color into main.css -->
-      <img src="/assets/icons/logo-footer.svg">
+      <ul id="footer-right-list">
+        <li><a class="footer" href="/consulting/"><span class="footer">Consulting</span></a></li>
+        <li><a class="footer" href="/bernie.php"><span class="footer">Bernie</span></a> </li>
+      </ul>
+      <!-- TODO: Put the fill color into main.css
+      <img src="/assets/icons/logo-footer.svg"> -->
     </div>
   </div>
 </div>
