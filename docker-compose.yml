@@ -39,4 +39,4 @@ services:
     volumes:
       - .:/site-repository
       - ./alpine-gitconfig:/root/.gitconfig
-    entrypoint: "/bin/sh -c 'trap exit TERM; while :; do cd /site-repository; git pull origin/master; sleep 24h; done;'"
+    entrypoint: "/bin/sh -c 'trap exit TERM; while :; do cd /site-repository; git pull origin master; sleep 24h; done;'"
