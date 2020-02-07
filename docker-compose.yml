@@ -31,3 +31,12 @@ services:
     restart: unless-stopped
     volumes:
         - ./htdocs:/website
+  gitpull:
+    container_name: gitpull
+    depends_on:
+      - nginx
+    image: ubuntu/latest
+    restart: unless-stopped
+    volumes:
+      - .:/site-repository
+    entrypoint: "/bin/sh -c 'trap exit TERM; while :; do cd /site-repository; git pull origin/master; sleep 24h; done;'"
