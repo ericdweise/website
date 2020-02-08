@@ -10,7 +10,7 @@
     <div class="page-content">
         This page was inspired when I listened to Derek Sivers's interview with Tim Ferriss 
         <a href="https://tim.blog/2015/12/14/derek-sivers-on-developing-confidence-finding-happiness-and-saying-no-to-millions/">(interview number 125)</a>.
-        I thought this is not only a great tell people what I'm working on but also to remind myself what's important.
+        I thought this is not only a great way to tell people what I'm working on but also to remind myself what's important.
         So, I am joining the <a href="https://nownownow.com/about">NowNowNow</a> movement.
         <h2>What I'm working on</h2>
         <ul>
