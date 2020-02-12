@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<svg baseProfile="full" viewBox="-88 -88 176 216" height="100%" version="1.1" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg baseProfile="full" viewBox="-88 -88 176 300" height="100%" version="1.1" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs />
 <circle cx="0" cy="0" r="32" fill="#125E87" />
 <circle cx="48" cy="0" r="16" fill="#125E87" />
@@ -41,11 +41,32 @@
 <circle cx="12" cy="-72" r="4" fill="#125E87" />
 <circle cx="-12" cy="-72" r="4" fill="#125E87" />
 <circle cx="0" cy="-84" r="4" fill="#125E87" />
-<rect x="-24.0" y="0" height="128" width="2.0" fill="#125E87" />
-<rect x="22.0" y="0" height="128" width="2.0" fill="#125E87" />
-<rect x="-4.0" y="0" height="128" width="8.0" fill="#125E87" />
-<rect x="8.0"   y="48.0" height="80.0" width="1.0" fill="#125E87" />
-<rect x="-8.0"   y="48.0" height="80.0" width="1.0" fill="#125E87" />
-<rect x="16.0"   y="64" height="64" width="1.0" fill="#125E87" />
-<rect x="-16.0"   y="64" height="64" width="1.0" fill="#125E87" />
+<path stroke-width="2" stroke="#125E87" d="M -23,21  V 128" />
+<path stroke-width="2" stroke="#125E87" d="M  23,21  V 128" />
+<path stroke-width="8" stroke="#125E87" d="M   0,31  V 128" />
+<path stroke-width="1" stroke="#125E87" d="M   8,48  V 128" />
+<path stroke-width="1" stroke="#125E87" d="M  -8,48  V 128" />
+<path stroke-width="1" stroke="#125E87" d="M  16,64  V 128" />
+<path stroke-width="1" stroke="#125E87" d="M -16,64  V 128" />
+<!-- Roots -->
+<path stroke-width="2" stroke="#125E87" fill=none stroke-linecap="round"
+    d="M -23,128
+       S -23,128 -23,130 -28,135 -33,139
+         -58,139 -67,144 -69,152" />
+<path stroke-width="2" stroke="#125E87" fill=none stroke-linecap="round"
+    d="M -23,128
+       S -23,128 -23,130 -28,135 -33,139
+         -58,142 -59,150 -60,166" />
+<path stroke-width="1" stroke="#125E87" fill=none stroke-linecap="round"
+    d="M -16,128
+       S -16,130 -18,135 -25,145 
+         -40,150 -50,155 -55,160" />
+<path stroke-width="1" stroke="#125E87" fill=none stroke-linecap="round"
+    d="M -16,128
+       S -16,130 -18,140 -25,150
+         -35,155 -40,160 -45,165" />
+<path stroke-width="1" stroke="#125E87" fill=none stroke-linecap="round"
+    d="M -16,128
+       S -16,130 -18,140 -25,150
+         -35,155 -37,165 -40,168" />
 </svg>
