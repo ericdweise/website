@@ -14,14 +14,14 @@
         So, I am joining the <a href="https://nownownow.com/about">NowNowNow</a> movement.
         <h2>What I'm working on</h2>
         <ul>
-            <li> Persuing a master's in Electrical Engineering with a specialization in Applied Physics at UC San Diego.
-            <li> Training for a triathalon. I haven't signed up for one yet, but I have told myself I will complete one by the end of the 2020! I will put up a page to track my progress soon.
+            <li> Pursuing a master's in Electrical Engineering with a specialization in Applied Physics at UC San Diego.
+            <li> Training for a triathlon. I haven't signed up for one yet, but I have told myself I will complete one by the end of the 2020! I will put up a page to track my progress soon.
             <li> Working with the Jacobs Graduate Student Council as the <em>Industry and Entrepreneurial Chair</em>.
                 Currently my goals are to increase student engagement with industry, particularly with startups, and securing funding for JGSC to continue operating next year.
             <li> Starting a software development consulting business.
                 See my <a href="/consulting/">Consulting</a> page for more information!
             <li> Being more grounded in nature.
-                I haven't been backpacking in over a year and I feel like I'm starting to forget what it is like to be wholly imersed in wilderness.
+                I haven't been backpacking in over a year and I feel like I'm starting to forget what it is like to be wholly immersed in wilderness.
                 I'm tentatively planning 3 backpacking trips in the next few months.
                 Check out my <a href="/adventures/">adventures</a> as I write about them!
         </ul>
