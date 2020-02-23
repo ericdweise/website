@@ -12,6 +12,8 @@
         <a href="https://tim.blog/2015/12/14/derek-sivers-on-developing-confidence-finding-happiness-and-saying-no-to-millions/">(interview number 125)</a>.
         I thought this is not only a great way to tell people what I'm working on but also to remind myself what's important.
         So, I am joining the <a href="https://nownownow.com/about">NowNowNow</a> movement.
+        <h2>Where I Call Home</h2>
+        San Diego, CA
         <h2>What I'm working on</h2>
         <ul>
             <li> Pursuing a master's in Electrical Engineering with a specialization in Applied Physics at UC San Diego.
@@ -31,7 +33,7 @@
             <li> <em>Brave New World</em> by Aldous Huxley
             <li> <em>Perfectly Reasonable Deviations (From the Beaten Track)</em> by Richard Feynman
         </ul>
-        Last updated: February 6, 2020
+        Last updated: February 22, 2020
     </div>
     <?php include('../footer.php'); ?>
 </html>
