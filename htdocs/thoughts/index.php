@@ -8,7 +8,7 @@
     </head>
     <?php include('../header.php'); ?>
     <div class="page-content">
-        <a href="posts/2019-09-11.php"><h3>Why am I building this?</h3>
+        <a href="random/why-am-i-building-this.php"><h3>Why am I building this?</h3>
         <!-- TODO: list blog posts in the posts/ directory, latest post first -->
         <!-- TODO: Display a short snippet from each post -->
         <!-- TODO: Add a search function, based on key-word -->
