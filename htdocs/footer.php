@@ -27,7 +27,7 @@
           </a>
         </li>
         <li>
-          <a class="footer" href="https://github.com/ericdweise/resume/raw/master/curriculum-vitae.pdf">
+          <a class="footer" href="https://github.com/ericdweise/resume/blob/master/eric-weise-cv.pdf">
             <!-- TODO: Put svg data into assets/icons/ -->
             <svg class="svg-icon">"
               <path d="M2,0V16H14V6L8,0H3V1H7V6H13V15H3V0H2z" />
