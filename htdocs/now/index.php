@@ -30,10 +30,20 @@
         <h2>What I'm reading</h2>
         <ul>
             <li> <em>The Courage to Be Disliked</em> by Ichiro Kishimi and Fumitake Toga
-            <li> <em>Brave New World</em> by Aldous Huxley
             <li> <em>Perfectly Reasonable Deviations (From the Beaten Track)</em> by Richard Feynman
         </ul>
-        Last updated: February 22, 2020
+        <h2>What I'm Listening To</h2>
+        <p>
+        Normally when I'm in a <em>get stuff done</em> mood I turn to fast, distorted music like
+        <a href="https://youtu.be/sAsMUXuBeB8?t=20">Angel Vivaldi</a>.
+        I feel like fast cadence chanels into fast work.
+        Recently, however, I've been listening to slower music.
+        I find that it gives me a lot of focused and sustained energy.
+        Two playlists that I've been playing pretty much nonstop are
+        <a href="https://www.youtube.com/channel/UCY3cAFsquIk7VGMuk-V8S3g/featured">Meute</a> and 
+        <a href="https://www.youtube.com/user/rpoland">Candyrat Records</a>.
+        </p>
+        Last updated: March 4, 2020
     </div>
     <?php include('../footer.php'); ?>
 </html>
