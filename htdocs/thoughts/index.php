@@ -8,7 +8,7 @@
     </head>
     <?php include('../header.php'); ?>
     <div class="page-content">
-        <a href="random/acorns-to-oak-trees.php"><h3>Acorns to Oak Trees</h3>
+        <a href="random/tale-of-trees.php"><h3>A Tale of Trees</h3>
         <a href="random/why-am-i-building-this.php"><h3>Why am I building this?</h3>
         <!-- TODO: list blog posts in the posts/ directory, latest post first -->
         <!-- TODO: Display a short snippet from each post -->
