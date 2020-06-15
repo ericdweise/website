@@ -41,7 +41,6 @@
     </div>
     <div id="footer-col-2">
       <ul id="footer-right-list">
-        <li><a class="footer" href="/consulting/"><span class="footer">Consulting</span></a></li>
         <li><a class="footer" href="/bernie.php"><span class="footer">Bernie</span></a> </li>
         <li><a class="footer" href="/logo.php"><span class="footer">Logo</span></a> </li>
       </ul>
