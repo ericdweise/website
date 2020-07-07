@@ -37,6 +37,7 @@
             <li> <em>Perfectly Reasonable Deviations (From the Beaten Track)</em> by Richard Feynman
             <li> <em>The Hard Thing About Hard Things</em> by Ben Horowitz
             <li> <em>The Four Hour Work Week</em> by Tim Ferriss
+            <li> <em>The Subtle Art of Not Giving a F*ck</em> by Mark Manson
         </ul>
         <h2>What I'm Listening To</h2>
         <p>
