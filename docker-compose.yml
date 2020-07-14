@@ -5,6 +5,7 @@ services:
     depends_on:
         - phpfpm
         - gitpull
+        - certbot
     image: nginx:1.15-alpine
     restart: unless-stopped
     volumes:
@@ -18,14 +19,12 @@ services:
     command: "/bin/sh -c 'while :; do sleep 6h & wait $${!}; nginx -s reload; done & nginx -g \"daemon off;\"'"
   certbot:
     container_name: certbot
-    depends_on:
-      - nginx
     image: certbot/certbot
     restart: unless-stopped
     volumes:
       - ./certbot/conf:/etc/letsencrypt
       - ./certbot/www:/var/www/certbot
-    entrypoint: "/bin/sh -c 'trap exit TERM; while :; do certbot renew; sleep 72h & wait $${!}; done;'"
+    entrypoint: "/bin/sh -c 'trap exit TERM; while :; do certbot renew; sleep 14d & wait $${!}; done;'"
   phpfpm:
     container_name: phpfpm
     image: php:7-fpm
