@@ -1,0 +1,3 @@
+[submodule "htdocs/notes"]
+	path = htdocs/notes
+	url = https://github.com/ericdweise/notes.git

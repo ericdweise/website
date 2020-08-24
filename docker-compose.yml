@@ -36,6 +36,6 @@ services:
     image: alpine/git
     restart: unless-stopped
     volumes:
-      - .:/site-repository
+      - .:/website
       - ./alpine-gitconfig:/root/.gitconfig
-    entrypoint: "/bin/sh -c 'trap exit TERM; while :; do cd /site-repository; git pull origin master; sleep 24h; done;'"
+    entrypoint: "/bin/sh -c 'trap exit TERM; while :; do cd /website; git pull origin master && git submodule update --init; sleep 26h; done;'"

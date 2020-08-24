@@ -15,7 +15,7 @@
           <div class="trigger">
             <a class="nav-link" href="/now">Now</a>
             <a class="nav-link" href="/thoughts/">Thoughts</a>
-            <a class="nav-link" href="https://github.com/ericdweise/notes">Notes</a>
+            <a class="nav-link" href="/notes/">Notes</a>
             <a class="nav-link" href="/adventures/">Adventures</a>
           </div>
         </nav>
