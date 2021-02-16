@@ -3,7 +3,7 @@ Basic steps for setting my website.
 # Testing Site Locally
 For the purposes of testing the documents you can host the site locally using the following command:
 ```bash
-docker-compose start phpfpm nginx
+docker-compose up testsrv
 ```
 Then, connect to the webserver through web browser using URL `0.0.0.0`.
 

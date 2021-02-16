@@ -2,8 +2,6 @@ version: '3.4'
 services:
   testsrv:
     container_name: test-site-server
-    depends_on:
-        - phpfpm
     image: nginx:1.15-alpine
     restart: unless-stopped
     volumes:
@@ -15,7 +13,6 @@ services:
   nginx:
     container_name: nginx
     depends_on:
-        - phpfpm
         - certbot
     image: nginx:1.15-alpine
     restart: unless-stopped
